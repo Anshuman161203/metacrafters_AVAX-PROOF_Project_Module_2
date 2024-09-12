@@ -158,8 +158,8 @@ perform import on destination (y/n): y
 ✔ switch default chain to destination (y/n): y
 ```
 
-# License
-This project is licensed under the MIT License.
+# PROJECT BY
+ANSHUMAN ROSHAN
 
 
 
